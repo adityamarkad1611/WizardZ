@@ -4,6 +4,10 @@
     box-sizing: border-box;
 
 }
+body{
+    width: 100vw;
+    overflow: hidden;
+}
 
 section {
     height: 100%;
